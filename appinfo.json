@@ -10,8 +10,14 @@
     "resources": {
         "media": [
             {
-                "file": "fonts/i_font",
-                "name": "IMAGINE_FONT_42",
+                "file": "fonts/sick_font_48",
+                "name": "IMAGINE_FONT_48",
+                "targetPlatforms": null,
+                "type": "font"
+            },
+            {
+                "file": "fonts/sick_font_20",
+                "name": "IMAGINE_FONT_20",
                 "targetPlatforms": null,
                 "type": "font"
             }
@@ -21,8 +27,7 @@
     "shortName": "Dank Watchface",
     "targetPlatforms": [
         "aplite",
-        "basalt",
-        "chalk"
+        "basalt"
     ],
     "uuid": "39f3332d-ff8b-4352-b365-e088fbb710a0",
     "versionLabel": "1.0",
