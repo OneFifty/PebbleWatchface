@@ -1,0 +1,32 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "z.alexpan@gmail.com",
+    "enableMultiJS": false,
+    "longName": "Dank Watchface",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "fonts/i_font",
+                "name": "IMAGINE_FONT_42",
+                "targetPlatforms": null,
+                "type": "font"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "Dank Watchface",
+    "targetPlatforms": [
+        "aplite",
+        "basalt",
+        "chalk"
+    ],
+    "uuid": "39f3332d-ff8b-4352-b365-e088fbb710a0",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
