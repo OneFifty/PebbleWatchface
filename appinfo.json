@@ -1,7 +1,10 @@
 {
-    "appKeys": {},
+    "appKeys": {
+        "KEY_CONDITIONS": 1,
+        "KEY_TEMPERATURE": 0
+    },
     "capabilities": [
-        ""
+        "location"
     ],
     "companyName": "z.alexpan@gmail.com",
     "enableMultiJS": false,
@@ -10,8 +13,8 @@
     "resources": {
         "media": [
             {
-                "file": "fonts/sick_font_48",
-                "name": "IMAGINE_FONT_48",
+                "file": "fonts/sick_font_42",
+                "name": "IMAGINE_FONT_42",
                 "targetPlatforms": null,
                 "type": "font"
             },
